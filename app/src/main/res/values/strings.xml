@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">KanyeRest</string>
-    <string name="buttonName">Get new Kanye Quote</string>
-    <string name="press_the_button_below_n_to_recieve_a_quote">Press the button below \n to recieve a quote</string>
-</resources>
